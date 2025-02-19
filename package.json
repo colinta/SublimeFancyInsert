@@ -3,10 +3,14 @@
   "description": "Snippets + Templating",
   "author": "Colin T.A. Gray (colinta)",
   "details": "https://github.com/colinta/SublimeFancyInsert",
-  "labels": ["snippets", "template", "text"],
+  "labels": [
+    "snippets",
+    "template",
+    "text"
+  ],
   "releases": [
     {
-      "details": "https://github.com/colinta/SublimeFancyInsert/tags",
+      "tags": true,
       "sublime_text": ">=3000"
     }
   ]
